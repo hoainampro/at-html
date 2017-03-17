@@ -235,15 +235,41 @@ input[type=submit] {
 }*/
 
 /*footer*/
+.footer-full {
+  background-color:#62c6f8;
+}
 .colum {
-  width: 30%;
+  width: 33%;
   float: left;
   margin:0;
   text-align: left;
 }
-.colum2 {
-  width: 40%;
-  float: left;
-  margin:0;
-  text-align: left;
+.colum h2 {
+  color:#fff;
+  text-transform: uppercase;
+  padding-top: 44px;
+}
+.colum nav {
+  display: block;
+}
+.colum nav ul {
+  padding: 10px 30px;
+  color: #fff;
+}
+.colum nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+  line-height: 1.2;
+}
+.foter-nav ul {
+  list-style: none;
+}
+.footer-last {
+  border-top: 1px solid #81d1f9;
+}
+.footer-last p {
+  padding-top: 10px;
+  text-transform: uppercase;
+  color: #fff;
 }
