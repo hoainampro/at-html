@@ -1,0 +1,16 @@
+@media screen and (max-width: 480px) {
+  aside {
+    float: left;
+    max-width: 300px;
+  }
+  main {
+
+    width: 90%;
+
+  }
+  .nav ul li {
+
+  }
+
+
+}
